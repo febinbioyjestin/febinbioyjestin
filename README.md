@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **febinbj04@gmail.com**
 
-- ⚡ Fun fact **I love using code to solve real-life problems!**
+ **I love using code to solve real-life problems!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

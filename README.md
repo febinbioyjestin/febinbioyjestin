@@ -1,6 +1,6 @@
 
   <p align="center">
-  <img src="https://auto.creavite.co/api/out/pg9JpFkyVCpVsxbqel_standard.gif"/></p>
+  <img src="https://auto.creavite.co/api/out/pg9JpFkyVCpVsxbqel_standard.gif"/> </p>
 
 
 <h1 align="center">Hi 👋, I'm Febin Bijoy Jestin</h1>

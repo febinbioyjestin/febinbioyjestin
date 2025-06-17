@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://auto.creavite.co/api/out/nrnKmKOz9Bblsxkr3q_standard.gif"/> </p>
+<img src="https://auto.creavite.co/api/out/UBJv7eJG16PFsxzulo_standard.gif" /> </p>
 
 <h1 align="center">Hi 👋, I'm Febin Bijoy Jestin</h1>
 <h3 align="center">🎓 Aspiring Data Analyst | Skilled in Programming & Data Visualization | Passionate About Business Insights & Innovation</h3>

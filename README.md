@@ -1,48 +1,50 @@
 <div align="center">
 
-<!-- VIBRANT ANIMATED BANNER -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqZnd4ZHBqZnd4ZHBqZnd4ZHBqZnd4ZHBqZnd4ZHBqZnd4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/l41lTjJp9E9gJ8G64/giphy.gif" width="100%" />
+<!-- DYNAMIC CODING HEADER -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqZnd4ZHBqZnd4ZHBqZnd4ZHBqZnd4ZHBqZnd4ZHBqZnd4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/JIX9t2j0ZTN9S/giphy.gif" width="100%" />
 
-# 📈 Febin Bijoy Jestin
-### <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF3E3E&width=450&lines=Data+Analytics+Graduate;SQL+%26+Tableau+Visualization+Expert;Turning+Raw+Data+into+Vibrant+Insights" />
-
----
-
-<!-- VIBRANT ANIMATED DATA GIF LIST -->
-<h3>✨ Professional Data Visualization Gallery</h3>
-<p>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqZnd4ZHBqZnd4ZHBqZnd4ZHBqZnd4ZHBqZnd4ZHBqZnd4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/12xMvwRMFc4Yy4/giphy.gif" width="30%" />
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqZnd4ZHBqZnd4ZHBqZnd4ZHBqZnd4ZHBqZnd4ZHBqZnd4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKVUn7iM8FMEU24/giphy.gif" width="30%" />
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqZnd4ZHBqZnd4ZHBqZnd4ZHBqZnd4ZHBqZnd4ZHBqZnd4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/l41lTjJp9E9gJ8G64/giphy.gif" width="30%" />
-</p>
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF99&width=500&lines=FEBIN+BIJOY+JESTIN;DATA+ANALYTICS+PROFESSIONAL;SQL+%7C+TABLEAU+%7C+EXCEL" />
 
 ---
 
-## 🛠 High-Impact Tech Stack
+### 💻 Data Analytics in Motion
+*Transforming raw signals into business intelligence.*
+
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL-FF0000?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-FF9900?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-00FF00?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-FFFF00?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-00FFFF?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqZnd4ZHBqZnd4ZHBqZnd4ZHBqZnd4ZHBqZnd4ZHBqZnd4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/jTfde3t3Jz553hB8F6/giphy.gif" width="45%" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqZnd4ZHBqZnd4ZHBqZnd4ZHBqZnd4ZHBqZnd4ZHBqZnd4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/JpGkS14H1yH193s61B/giphy.gif" width="45%" />
 </p>
 
 ---
 
-## 🚀 Featured Data Projects
-| Project | Business Objective | Analytical Outcome |
-| :--- | :--- | :--- |
-| **Tuition Management** | Centralizing administrative data | Normalized SQL schema for 30% speed boost |
-| **E-commerce Metrics** | Tracking user engagement | Tableau dashboards for UI/UX optimization |
-| **Warehouse Logic** | Reducing data silo latency | Scalable ETL process design |
+### 🚀 High-Impact Analytical Projects
+
+<p align="center">
+  <b>Tuition Management (SQL)</b><br>
+  <i>Architected robust database schemas to optimize administrative workflows.</i><br>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqZnd4ZHBqZnd4ZHBqZnd4ZHBqZnd4ZHBqZnd4ZHBqZnd4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/JpGkS14H1yH193s61B/giphy.gif" width="60%" />
+</p>
+
+<p align="center">
+  <b>E-commerce Insights (Tableau)</b><br>
+  <i>Visualized user engagement trends to drive UX innovation.</i><br>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqZnd4ZHBqZnd4ZHBqZnd4ZHBqZnd4ZHBqZnd4ZHBqZnd4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/l41lTjJp9E9gJ8G64/giphy.gif" width="60%" />
+</p>
 
 ---
 
-## 📈 Developer Activity
-<img src="https://github-readme-stats.vercel.app/api?username=febinbioyjestin&show_icons=true&theme=transparent&title_color=FF00FF&text_color=FFFFFF&hide_border=true" />
+### 🛠 Professional Toolkit
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=3399FF" />
+  <img src="https://img.shields.io/badge/Tableau-000000?style=for-the-badge&logo=tableau&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoft-excel&logoColor=217346" />
+</p>
 
-<br>
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/febinbijoyjestin)
+### 🔗 Connect With Me
+<a href="https://linkedin.com/in/febinbijoyjestin">
+  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="200" />
+</a>
 
 </div>

@@ -1,38 +1,97 @@
-<div align="center">
-
-<!-- ANIMATED TYPING HEADER -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3399FF&width=500&lines=Hi,+I'm+Febin+Bijoy+Jestin;Data+Analytics+Professional;SQL+%7C+Tableau+%7C+Excel" />
-
----
-
-<!-- PROFESSIONAL STATS (Fixed) -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=febinbioyjestin&show_icons=true&theme=transparent&title_color=3399FF&text_color=FFFFFF&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=febinbioyjestin&theme=transparent&hide_border=true&currStreakNum=3399FF" />
-</p>
-
----
-
-<!-- PROFESSIONAL BADGES -->
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=3399FF" />
-  <img src="https://img.shields.io/badge/TABLEAU-000000?style=for-the-badge&logo=tableau&logoColor=FF9900" />
-  <img src="https://img.shields.io/badge/EXCEL-000000?style=for-the-badge&logo=microsoft-excel&logoColor=217346" />
-  <img src="https://img.shields.io/badge/POWER_BI-000000?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
-</p>
-
----
-
-<!-- SNAKE ANIMATION (Must set up GitHub Action) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/febinbioyjestin/febinbioyjestin/output/github-contribution-grid-snake.svg" />
-</p>
-
-<!-- LINKEDIN BUTTON -->
-<p align="center">
-  <a href="https://linkedin.com/in/febinbijoyjestin">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-</div>
+{
+  "version": "1.0.0",
+  "exportedAt": "2026-07-12T05:52:15.581Z",
+  "profile": {
+    "title": "                                  Febin Bijoy Jestin",
+    "subtitle": "Aspiring Data Analyst | SQL, Tableau & Data Strategy Specialist",
+    "currentWork": "Focusing on process intelligence and data visualization, while leveraging SQL for robust data architecture and Tableau to drive actionable business analytics.",
+    "currentLearn": "Mastering advanced analytical techniques, process mining (Celonis), and predictive modeling to extract actionable insights from complex datasets.",
+    "collaborateOn": "Data visualization projects, business intelligence initiatives, and complex SQL data modeling tasks that drive operational efficiency.",
+    "helpWith": "Connecting with experienced professionals in the data analytics field to discuss best practices in data warehousing and enterprise-grade visualization",
+    "ama": "SQL, Tableau, Data Visualization, and Business Intelligence.",
+    "contact": "febinbj04@gmail.com",
+    "funFact": "I enjoy turning complex datasets into clear, visual stories that drive real-world business decisions.",
+    "visitorsBadge": true,
+    "badgeStyle": "flat",
+    "badgeColor": "0e75b6",
+    "badgeLabel": "Profile views",
+    "githubProfileTrophy": true,
+    "githubStats": true,
+    "githubStatsOptions": {
+      "theme": "",
+      "titleColor": "",
+      "textColor": "",
+      "bgColor": "",
+      "hideBorder": false,
+      "cacheSeconds": null,
+      "locale": "en"
+    },
+    "topLanguages": false,
+    "topLanguagesOptions": {
+      "theme": "",
+      "titleColor": "",
+      "textColor": "",
+      "bgColor": "",
+      "hideBorder": false,
+      "cacheSeconds": null,
+      "locale": "en"
+    },
+    "streakStats": false,
+    "streakStatsOptions": {
+      "theme": ""
+    },
+    "devDynamicBlogs": false,
+    "mediumDynamicBlogs": false,
+    "rssDynamicBlogs": false
+  },
+  "links": {
+    "currentWork": "",
+    "collaborateOn": "",
+    "helpWith": "",
+    "portfolio": "",
+    "blog": "https://www.linkedin.com/in/febinbijoyjestin",
+    "resume": "https://drive.google.com/file/d/1Nf65A-VAImpr5OWumByLQbZ7Q5tKgInv/view?usp=sharing"
+  },
+  "social": {
+    "github": "febinbioyjestin",
+    "dev": "",
+    "linkedin": "febinbijoyjestin",
+    "codepen": "",
+    "stackoverflow": "",
+    "kaggle": "",
+    "codesandbox": "",
+    "fb": "",
+    "instagram": "_congo._",
+    "twitter": "",
+    "dribbble": "",
+    "behance": "",
+    "medium": "",
+    "youtube": "",
+    "codechef": "",
+    "hackerrank": "",
+    "codeforces": "",
+    "leetcode": "",
+    "topcoder": "",
+    "hackerearth": "",
+    "geeks_for_geeks": "febin bijoy jestin",
+    "discord": "",
+    "rssurl": "",
+    "twitterBadge": false
+  },
+  "support": {
+    "buyMeACoffee": ""
+  },
+  "skills": [
+    "c",
+    "css3",
+    "django",
+    "flask",
+    "html5",
+    "java",
+    "jupyter",
+    "mariadb",
+    "mongodb",
+    "postman",
+    "python"
+  ]
+}

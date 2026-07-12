@@ -1,74 +1,30 @@
+<h1 align="center">Hi, I'm Febin Bijoy Jestin 👋</h1>
+
 <p align="center">
-<img src="https://auto.creavite.co/api/out/UBJv7eJG16PFsxzulo_standard.gif" /> </p>
-
-<h1 align="center">Hi 👋, I'm Febin Bijoy Jestin</h1>
-<h3 align="center">🎓 Aspiring Data Analyst | Skilled in Programming & Data Visualization | Passionate About Business Insights & Innovation</h3>
-
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/UrnPTaqPEzkAAAAd/developer.gif" />
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=febinbioyjestin&label=Profile%20views&color=0e75b6&style=flat" alt="febinbioyjestin" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0066cc&width=435&lines=Aspiring+Data+Analyst;SQL+%26+Tableau+Specialist;Driven+by+Data+Insights" alt="Typing Animation" />
 </p>
 
 ---
 
-- 🔭 I’m currently working on [EduCoach - A Tuition Management System](https://github.com/febinbioyjestin/Tution_Center)
-- 🌱 I’m currently learning **Data Science, MongoDB, Google Cloud ML, Prompt Engineering**
-- 👯 I’m looking to collaborate on **Data Analytics Projects, Mini Projects in VB.NET or Python**
-- 🤝 I’m looking for help with **Advanced JavaScript, MongoDB, and AI/ML Integration**
-- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/febinbioyjestin)
-- 💬 Ask me about **Java, SQL, Visual Basic, GitHub, Data Structures, Resume Projects**
-- 📫 How to reach me: **febinbj04@gmail.com**
-
-**I love using code to solve real-life problems!**
+### 📊 Core Technical Expertise
+* **Data Visualization & Analytics:** Tableau (Expert), Microsoft Excel (Advanced), Power BI.
+* **Database Management:** SQL Server (Query Optimization, Relational Design).
+* **Analytical Foundation:** Data Mining, Warehousing, Statistical Analysis, Process Intelligence.
 
 ---
 
-### 📬 Connect with me:
+### 🚀 Featured Data Projects
+* **Tuition Management System (SQL):** Designed relational database schemas to improve data retrieval efficiency.
+* **E-commerce Insights (Tableau):** Engineered interactive dashboards to identify actionable user behavior trends.
 
-<p align="left">
-  <a href="https://linkedin.com/in/febinbijoyjestin" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/_congo._" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=febinbioyjestin&show_icons=true&theme=blue-term&hide_border=true" alt="Febin's Stats" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/febinbijoyjestin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
----
-
-### 🛠 Languages and Tools:
-
-<p align="left">
-  <a href="https://developer.android.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" /></a>
-  <a href="https://azure.microsoft.com/en-in/"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" /></a>
-  <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" /></a>
-  <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" /></a>
-  <a href="https://www.djangoproject.com/"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" /></a>
-  <a href="https://dotnet.microsoft.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" /></a>
-  <a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" /></a>
-  <a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" /></a>
-  <a href="https://cloud.google.com"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" /></a>
-  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" /></a>
-  <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" /></a>
-  <a href="https://www.adobe.com/in/products/illustrator.html"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" /></a>
-  <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" /></a>
-  <a href="https://kubernetes.io"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" /></a>
-  <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" /></a>
-  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" /></a>
-  <a href="https://www.microsoft.com/en-us/sql-server"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" /></a>
-  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" /></a>
-  <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" /></a>
-  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" /></a>
-  <a href="https://unity.com/"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40" /></a>
-</p>
-
----
-
-### 📊 GitHub Stats:
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=febinbioyjestin&show_icons=true&locale=en&layout=compact" alt="top languages" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=febinbioyjestin&show_icons=true&locale=en" alt="github stats" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=febinbioyjestin&" alt="github streak" /></p>

@@ -1,50 +1,43 @@
 <div align="center">
 
-<!-- DYNAMIC CODING HEADER -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqZnd4ZHBqZnd4ZHBqZnd4ZHBqZnd4ZHBqZnd4ZHBqZnd4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/JIX9t2j0ZTN9S/giphy.gif" width="100%" />
+<!-- ANIMATED HEADER -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqZnd4ZHBqZnd4ZHBqZnd4ZHBqZnd4ZHBqZnd4ZHBqZnd4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/l41lTjJp9E9gJ8G64/giphy.gif" width="100%" />
 
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF99&width=500&lines=FEBIN+BIJOY+JESTIN;DATA+ANALYTICS+PROFESSIONAL;SQL+%7C+TABLEAU+%7C+EXCEL" />
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3399FF&width=500&lines=Hi,+I'm+Febin+Bijoy+Jestin;Data+Analytics+Graduate;SQL+%7C+Tableau+%7C+Excel+Expert" />
 
 ---
 
-### 💻 Data Analytics in Motion
-*Transforming raw signals into business intelligence.*
-
+<!-- MOVING DATA CARDS -->
+<h3> 📊 Professional Analytics Overview </h3>
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqZnd4ZHBqZnd4ZHBqZnd4ZHBqZnd4ZHBqZnd4ZHBqZnd4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/jTfde3t3Jz553hB8F6/giphy.gif" width="45%" />
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqZnd4ZHBqZnd4ZHBqZnd4ZHBqZnd4ZHBqZnd4ZHBqZnd4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/JpGkS14H1yH193s61B/giphy.gif" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=febinbioyjestin&show_icons=true&theme=transparent&title_color=3399FF&text_color=FFFFFF&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=febinbioyjestin&theme=transparent&hide_border=true&currStreakNum=3399FF" />
 </p>
 
 ---
 
-### 🚀 High-Impact Analytical Projects
-
-<p align="center">
-  <b>Tuition Management (SQL)</b><br>
-  <i>Architected robust database schemas to optimize administrative workflows.</i><br>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqZnd4ZHBqZnd4ZHBqZnd4ZHBqZnd4ZHBqZnd4ZHBqZnd4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/JpGkS14H1yH193s61B/giphy.gif" width="60%" />
-</p>
-
-<p align="center">
-  <b>E-commerce Insights (Tableau)</b><br>
-  <i>Visualized user engagement trends to drive UX innovation.</i><br>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqZnd4ZHBqZnd4ZHBqZnd4ZHBqZnd4ZHBqZnd4ZHBqZnd4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/l41lTjJp9E9gJ8G64/giphy.gif" width="60%" />
-</p>
-
----
-
-### 🛠 Professional Toolkit
+<!-- ANIMATED TECH STACK -->
+<h3> 🛠 Technical Skills </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=3399FF" />
   <img src="https://img.shields.io/badge/Tableau-000000?style=for-the-badge&logo=tableau&logoColor=FF9900" />
   <img src="https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoft-excel&logoColor=217346" />
+  <img src="https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
 </p>
 
 ---
 
-### 🔗 Connect With Me
+<!-- THE "SNAKE" ANIMATION -->
+<h3> 🐍 Contribution Grid </h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/febinbioyjestin/febinbioyjestin/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+<!-- LINKEDIN ANIMATED BUTTON -->
 <a href="https://linkedin.com/in/febinbijoyjestin">
-  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="200" />
+  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </div>

@@ -1,39 +1,45 @@
-<p align="center">
-  <!-- This is a high-quality Data Analyst GIF banner -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqZnd4ZHBqZnd4ZHBqZnd4ZHBqZnd4ZHBqZnd4ZHBqZnd4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/l41lTjJp9E9gJ8G64/giphy.gif" width="100%" />
-</p>
+<div align="center">
 
-<h1 align="center">Febin Bijoy Jestin</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0066cc&width=400&lines=Data+Analytics+Graduate;SQL+%26+Tableau+Specialist;Driven+by+Actionable+Insights" />
-</p>
+# 📊 Febin Bijoy Jestin
+### Data Analytics Graduate | Transforming Complex Data into Strategic Insights
+
+<!-- Animated Header GIF: Replace with your preferred Data Analytics GIF -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqZnd4ZHBqZnd4ZHBqZnd4ZHBqZnd4ZHBqZnd4ZHBqZnd4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/l41lTjJp9E9gJ8G64/giphy.gif" width="800" />
 
 ---
 
-### 🚀 The Data Analyst Toolkit
-*We don't just store data; we uncover stories.*
+## 🛠 Tech Stack
+*Precision tools for high-impact analysis.*
 
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white" />
-</p>
+<br>
 
----
-
-### 📈 Featured Impact Projects
-*   **Tuition Management System:** Built a relational SQL backend that optimized student data retrieval, significantly reducing administrative overhead[cite: 6, 7].
-*   **E-commerce Insights:** Developed interactive Tableau dashboards, turning raw site traffic into actionable user-engagement strategies[cite: 6, 7].
+<img src="https://img.shields.io/badge/SQL-023047?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=febinbioyjestin&show_icons=true&theme=transparent&hide_border=true&title_color=0066cc&text_color=333" />
-</p>
+## 🚀 Featured Work
+*Professional solutions for business-critical challenges.*
 
-<p align="center">
-  <a href="https://linkedin.com/in/febinbijoyjestin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+| Project | Business Problem | My Solution |
+| :--- | :--- | :--- |
+| **Tuition Management** | Inefficient administrative tracking | Normalized SQL relational schema |
+| **E-commerce Insights** | Unclear user engagement drivers | Interactive Tableau visualization |
+| **Data Architecture** | Disparate dataset silos | Automated warehouse logic |
+
+---
+
+## 📈 GitHub Activity
+<img src="https://github-readme-stats.vercel.app/api?username=febinbioyjestin&show_icons=true&theme=transparent&title_color=0066cc&text_color=ffffff&hide_border=true" />
+
+---
+
+## 🔗 Connect
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/febinbijoyjestin)
+
+</div>
